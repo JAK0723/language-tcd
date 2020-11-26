@@ -1,0 +1,14 @@
+{
+  "name": "language-tcd",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for TCD logs",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/JAK0723/language-tcd",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
